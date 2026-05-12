@@ -1,6 +1,6 @@
 # 👩‍💻 YOUR NAME - Data Science Portfolio
 
-Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
+Hi there! I'm **Suhel Ansari**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
 
 ---
 
@@ -65,10 +65,10 @@ Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundat
 
 ## 📬 Let's Connect!
 
-- 📧 Email: priyamehta.ds@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/priyamehta-ds)  
-- 📂 [Portfolio Website](https://priyamehta.dev)  
-- 🐙 [GitHub](https://github.com/priyamehta)
+- 📧 Email: officialsuhelansari77@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/suhelansari)  
+- 📂 [Portfolio Website](https://suhelansari)  
+- 🐙 [GitHub](https://github.com/suhelansari)
 
 ---
 
