@@ -1,6 +1,6 @@
-# 👩‍💻 YOUR NAME - Data Science Portfolio
+# 👩‍💻 SUHEL ANSARI - Data Science Portfolio
 
-Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
+Hi there! I'm **SUHEL ANSARI**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
 
 ---
 
